@@ -19,13 +19,13 @@ src="https://img.shields.io/github/followers/namson256?logo=github&style=for-the
 UTM EPORTFOLIO
 -------------
 
-Programming technique -
+Programming technique - https://github.com/namson256/programming-technique
 
-Discrete Structure -
+Discrete Structure - https://github.com/namson256/discrete-structure
 
-Technology Information System - 
+Technology Information System - https://github.com/namson256/technology-information-system
 
-Digital Logic -
+Digital Logic - https://github.com/namson256/digital-logic
 
 ### Skills
 
