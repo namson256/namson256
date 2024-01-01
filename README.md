@@ -16,6 +16,17 @@ I am currently pursuing a bachelor of computer science (Data Engineering) in the
 <a href="https://www.github.com/namson256" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/namson256?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
+UTM EPORTFOLIO
+-------------
+
+Programming technique -
+
+Discrete Structure -
+
+Technology Information System - 
+
+Digital Logic -
+
 ### Skills
 
 
