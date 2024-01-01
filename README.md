@@ -1,7 +1,7 @@
 HELLO! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ==================================================================================================================================================
 
-![gambar](https://github.com/namson256/namson256/assets/155377702/e5b9b840-3f79-4974-a8dc-5420e0975d9a)
+![gambarrr](https://github.com/namson256/namson256/assets/155377702/117d1d90-955b-4fc9-a00e-eaac0a3e85cf)
 
 
 College
