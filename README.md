@@ -11,20 +11,20 @@ College
 I am currently pursuing a bachelor of computer science (Data Engineering) in the University Technology Malaysia (UTM), Johor
 
 * 🌍  I'm based in Kuala Lumpur
-* ✉️  You can contact me at [naim20600@gmail.com](mailto:naim20600@gmail.com)
+* ✉️  You can contact me at [naim20600@gmail.com](mailto:naimabdullah340@gmail.com)
 * 🧠  I'm learning Bachelor Of Computer Science (Data Engineering)
 
 UTM E-PORTFOLIO
 -------
 1 year courses :
 
-PROGRAMMING TECHNIQUE : https://github.com/namson26/programming-technique-1.git
+PROGRAMMING TECHNIQUE : 
 
-DISCREATE STRUCTURE : https://github.com/namson26/Discrete-Structure.git
+DISCREATE STRUCTURE : 
 
-DIGITAL LOGIC : https://github.com/namson26/Digital-Logic.git
+DIGITAL LOGIC : 
 
-TECHNOLOGY INFORMATION SYSTEM : https://github.com/namson26/Technology-Information-System.git
+TECHNOLOGY INFORMATION SYSTEM : 
 
 ### Skills
 
