@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Muhammad Naim Bin Abdullah
 ==================================================================================================================================================
 
-![animated-working-computer-mcf5woa92v8rxgim](https://github.com/namson256/namson256/assets/155377702/ebedab08-afbf-4e39-af29-6178e91e405a)
+![animate-background-technology](https://github.com/namson256/namson256/assets/155377702/f393fb38-abbd-485f-b338-5d27433aa30b)
 
 college
 -------
