@@ -15,6 +15,26 @@ I am currently pursuing a bachelor of computer science (Data Engineering) in the
 <a href="https://www.github.com/namson256" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/namson256?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
+
+
+EDUCATION 🎓📓
+---------
+- SMK Wangsa Melawati ( 2017 - 2021 ) <br>
+- Kolej Matrikulasi Melaka ( 2021 - 2022 ) <br>
+- University Technology Malaysia ( 2022 - until now ) <br> 
+
+CERTIFICATE 📜🏅
+-----------
+- Sijil Pelajaran Malaysia - 7A 2B+
+- Matriculation CGPA - 4.0
+- Peer Assistant Learning Leader
+- President of Bulan Sabit Merah
+
+Language 🗣
+--------
+- Malay ( fluent )
+- English ( Advance )
+
 UTM EPORTFOLIO
 -------------
 
