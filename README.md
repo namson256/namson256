@@ -21,7 +21,7 @@ EDUCATION 🏫
 ---------
 - SMK Wangsa Melawati ( 2017 - 2021 ) <br>
   + Science Stream (science computer)
-- Kolej Matrikulasi Melaka ( 2021 - 2022 ) <br>'
+- Kolej Matrikulasi Melaka ( 2021 - 2022 ) <br>
   + Science physical 
 - University Technology Malaysia ( 2022 - until now ) <br>
   + Bachelor of computer science (Data Engineering)
