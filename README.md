@@ -33,7 +33,7 @@ CERTIFICATE 📜🏅
 - Peer Assistant Learning Leader
 - President of Bulan Sabit Merah
 
-Language 🗣
+LANGUAGE 🗣
 --------
 - Malay ( fluent )
 - English ( Advance )
