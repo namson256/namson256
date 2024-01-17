@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ![animate-background-technology](https://github.com/namson256/namson256/assets/155377702/f393fb38-abbd-485f-b338-5d27433aa30b)
 
-college
+COLLAGE
 -------
 
 I am currently pursuing a bachelor of computer science (Data Engineering) in the University Technology Malaysia (UTM), Johor
