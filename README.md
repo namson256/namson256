@@ -20,8 +20,11 @@ src="https://img.shields.io/github/followers/namson256?logo=github&style=for-the
 EDUCATION 🏫
 ---------
 - SMK Wangsa Melawati ( 2017 - 2021 ) <br>
-- Kolej Matrikulasi Melaka ( 2021 - 2022 ) <br>
-- University Technology Malaysia ( 2022 - until now ) <br> 
+  + Science Stream (science computer)
+- Kolej Matrikulasi Melaka ( 2021 - 2022 ) <br>'
+  + Science physical 
+- University Technology Malaysia ( 2022 - until now ) <br>
+  + Bachelor of computer science (Data Engineering)
 
 CERTIFICATE 📜🏅
 -----------
