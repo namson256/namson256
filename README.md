@@ -9,7 +9,7 @@ COLLAGE 🎓📓
 I am currently pursuing a bachelor of computer science (Data Engineering) in the University Technology Malaysia (UTM), Johor
 
 * 🌍  I'm based in Kuala Lumpur
-* ✉️  You can contact me at [naima20600@gmail.com](mailto:naim20600@gmail.com)
+* ✉️  You can contact me at [naim20600@gmail.com](mailto:naim20600@gmail.com)
 * 🧠  I'm learning Bachelor Of Computer Science (Data Engineering)
 
 <a href="https://www.github.com/namson256" target="_blank" rel="noreferrer"><img
