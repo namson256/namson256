@@ -43,7 +43,8 @@ UTM EPORTFOLIO
 
 WEBSITE - https://namson256.github.io/
 
-First Year Course :
+
+## First Year Course 
 
 sem 1 : 
 
@@ -68,7 +69,7 @@ Computer Organization And Architecture -
 Human Computer Interaction - 
 
 
-Second Year Course : 
+## Second Year Course 
 
 SEM 1 : 
 
@@ -94,7 +95,8 @@ Data Analytics Programming -
 
 Operating System -
 
-Third Year Course : 
+
+## Third Year Course 
 
 SEM 1 :
 
