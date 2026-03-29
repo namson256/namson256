@@ -45,13 +45,54 @@ WEBSITE - https://namson256.github.io/
 
 First Year Course :
 
+sem 1 : 
+
 Programming technique - https://github.com/namson256/programming-technique
-
 Discrete Structure - https://github.com/namson256/discrete-structure
-
 Technology Information System - https://github.com/namson256/technology-information-system
-
 Digital Logic - https://github.com/namson256/digital-logic
+
+SEM 2 : 
+
+Probability & Statistical Data Analytic - 
+Programming Technique II - 
+System Analytic And Design ( WBL ) - 
+Computer Organization And Architecture - 
+Human Computer Interaction - 
+
+Second Year Course : 
+
+SEM 1 : 
+
+Data Structure And Algorithm - 
+Database ( WBL ) -
+Software Engineering ( WBL ) -
+System Development Technolgy -
+Network Communications - 
+
+SEM 2 : 
+
+Technopreneurship Seminar - 
+Object Oriented Programming - 
+Data Mining - 
+Data Analytics Programming -
+Operating System -
+
+Third Year Course : 
+
+SEM 1 :
+
+Artificial Intelligence -
+Database Programming - 
+Enterprise System Design And Modeling ( WBL ) - 
+
+SEM 2 : 
+
+Application Development ( WBL ) -
+High Performance Data Processing - 
+Business Intelligence - 
+Special Topic In Data Engineering -
+
 
 ### Skills
 
