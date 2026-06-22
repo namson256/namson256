@@ -26,7 +26,7 @@ Use the quick links below to navigate through my academic repositories and proje
 
 | 📂 Repository Hub | 🔗 Secure Link |
 | :--- | :--- |
-| **🌐 UTM E-Portfolio Website** | [View E-Portfolio](https://your-portfolio-website-link-here.com) |
+| **🌐 UTM E-Portfolio Website** | [View E-Portfolio](https://namson256.github.io/) |
 | **🚀 First Year Coursework** | [Explore Year 1 Repository](https://github.com/namson256/1YEAR) |
 | **💻 Second Year Coursework** | [Explore Year 2 Repository](https://github.com/namson256/2YEAR) |
 | **🧠 Third Year Coursework** | [Explore Year 3 Repository](https://github.com/namson256/3YEAR) |
